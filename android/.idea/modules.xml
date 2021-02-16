@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1664827650/android.camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-1664827650/android.camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1432855701/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/1432855701/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1368792523/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1368792523/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1781745727/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1781745727/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-558107595/android.firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-558107595/android.firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1265243552/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1265243552/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-385160814/android.video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-385160814/android.video_player.iml" />
+    </modules>
+  </component>
+</project>
